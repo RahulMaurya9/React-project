@@ -226,3 +226,7 @@ main {
   padding: 0.25rem 0.5rem;
   border-radius: var(--radius);
 }
+.read-btn:hover{
+  color: rgb(250, 74, 74);
+  outline: hidden;
+}
